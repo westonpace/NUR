@@ -5,8 +5,11 @@
 <value>manage.py</value>
 </pydev_variables_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python 2.7</pydev_property>
-<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">C:\Python27\python.exe</pydev_property>
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
 <path>/NURB/logistics</path>
+</pydev_pathproperty>
+<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
+<path>C:\Python27\Lib\site-packages\Django-1.5.1-py2.7.egg-info</path>
 </pydev_pathproperty>
 </pydev_project>
